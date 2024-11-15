@@ -1,0 +1,19 @@
+import { useQuery } from "@tanstack/react-query";
+import useAxiosPublic from "./useAxiosPublic";
+
+const useServices = () =>{
+
+    const axiosPublic = useAxiosPublic();
+
+    const {data: services = [], isPending: loading, refetch} = useQuery({
+        queryKey:['services'],
+        queryFn: async () =>{
+            const res = await axiosPublic.get('/allservices'
+          );
+            return res.data
+        }
+    });
+return [services, loading, refetch]
+}
+
+export default useServices;

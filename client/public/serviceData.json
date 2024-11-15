@@ -1,0 +1,63 @@
+[
+    {
+      "service_name": "Virus Removal",
+      "service_area": "System Optimization",
+      "price": 50,
+      "service_description": "This service ensures the complete removal of viruses, malware, and other harmful software from your computer. Our technicians perform a thorough scan of your system to detect and eliminate potential threats. Additionally, they provide guidance on keeping your system safe in the future by implementing essential security measures."
+    },
+    {
+      "service_name": "Data Recovery",
+      "service_area": "Storage & Backup",
+      "price": 100,
+      "service_description": "Our data recovery service helps restore lost or deleted data from your computer or external storage devices. We use advanced software to recover documents, photos, and other important files. Whether due to accidental deletion or hard drive failure, we work to retrieve as much data as possible while maintaining data integrity and confidentiality."
+    },
+    {
+      "service_name": "Hardware Repair",
+      "service_area": "Physical Components",
+      "price": 75,
+      "service_description": "This service covers the repair and replacement of hardware components, including screens, keyboards, batteries, and more. Our technicians diagnose the problem and provide effective solutions to restore the device's functionality. We only use quality parts to ensure a reliable and long-lasting repair experience."
+    },
+    {
+      "service_name": "OS Installation",
+      "service_area": "Software Setup",
+      "price": 40,
+      "service_description": "This service provides a fresh installation or upgrade of your operating system. We ensure your system is optimized with the latest drivers and updates, making it faster and more secure. Our technicians guide you in choosing the most suitable OS version based on your needs and help with any post-installation setup, if necessary."
+    },
+    {
+      "service_name": "Laptop Cleaning",
+      "service_area": "Maintenance",
+      "price": 30,
+      "service_description": "Our laptop cleaning service helps improve system performance by removing dust and debris from internal components. Over time, dust buildup can lead to overheating, affecting the computer's functionality. We carefully clean the fan, heat sink, and vents, ensuring that the device operates cooler and more efficiently."
+    },
+    {
+      "service_name": "Network Setup",
+      "service_area": "Internet & Connectivity",
+      "price": 60,
+      "service_description": "We assist in setting up and configuring your internet and home network, including router installation, Wi-Fi setup, and troubleshooting connectivity issues. Our service ensures a secure and optimized network for both home and small office use. We guide you on how to protect your network from unauthorized access for maximum security."
+    },
+    {
+      "service_name": "PC Tune-Up",
+      "service_area": "System Optimization",
+      "price": 45,
+      "service_description": "This service enhances your computer’s performance by optimizing its settings and removing unnecessary files and programs. We perform a complete diagnostic check to identify any underlying issues, followed by adjustments that boost speed and efficiency. Ideal for older computers or those experiencing slow performance."
+    },
+    {
+      "service_name": "Custom PC Build",
+      "service_area": "Hardware Assembly",
+      "price": 150,
+      "service_description": "For those looking to build a custom PC, we provide expert guidance and assembly services. Our technicians help select compatible components tailored to your needs, such as gaming or professional use. We handle the assembly, testing, and setup, ensuring you get a powerful and stable custom-built system."
+    },
+    {
+      "service_name": "Software Troubleshooting",
+      "service_area": "Technical Support",
+      "price": 35,
+      "service_description": "Our software troubleshooting service addresses issues with system applications, drivers, and updates. We diagnose and resolve common problems that may cause crashes or performance issues. This service is ideal for users experiencing software-related difficulties, and we provide solutions to enhance stability and usability."
+    },
+    {
+      "service_name": "Printer Setup",
+      "service_area": "Peripheral Configuration",
+      "price": 25,
+      "service_description": "We assist with the installation and configuration of printers, scanners, and other peripherals. Our service covers driver installation, network setup, and troubleshooting to ensure seamless connectivity. Whether for home or office use, we make sure your device functions efficiently and meets your specific printing needs."
+    }
+  ]
+  
